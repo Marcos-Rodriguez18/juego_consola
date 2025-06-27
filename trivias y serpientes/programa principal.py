@@ -1,8 +1,6 @@
 #Importacion de funciones
 from desarrollo import *
 
-#Importacion del csv
-#import csv
 
 #Desarrollo del juego.
 posicion = 15
